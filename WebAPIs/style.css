@@ -1,0 +1,6 @@
+#countryInput, #submitBtn {
+    position: fixed;
+    top: 10px; /* Adjust as needed */
+    left: 10px; /* Adjust as needed */
+    z-index: 999; /* Ensure they are on top of other elements */
+}
